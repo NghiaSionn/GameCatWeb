@@ -12,3 +12,9 @@ sharing:
   gitExclude:
     enabled: true
 
+
+toolPaths:
+  antigravity:
+    skills: .agents/skills
+    rules: .agents/rules
+    claudemd: GEMINI.md
